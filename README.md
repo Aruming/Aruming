@@ -23,14 +23,13 @@ Usually using Java language for programming and like to learn constantly and foc
 </p>
 <p align="center">
     <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white"/>
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mysql-0071C5.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
 </p>
 <p align="center">  
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/IntelliJ-0071C5?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ-%2300f?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
