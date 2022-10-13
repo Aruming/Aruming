@@ -7,10 +7,6 @@
 소통하고, 성장하고 싶은 개발자 김아름입니다.  
 주로 자바를 통한 개발을 하고 있으며 끊임없이 배우고, 문제에 부딪히고, 끈기있게 해결하는 것을 좋아합니다.  
 
-Hi There.  
-I'm Arum Kim, a developer who wants to communicate and grow.  
-Usually using Java language for programming and like to learn constantly and focus on problem to solve them.  
-
 <br/>
 
 ## 🛠 Tech Stack
